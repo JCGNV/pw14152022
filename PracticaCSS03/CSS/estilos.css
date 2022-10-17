@@ -1,0 +1,141 @@
+body{
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+}
+
+header{
+    background: white;
+}
+
+header nav{
+    background: orange;
+    border-radius: 15px;
+    margin: 0px auto;
+    padding: 2px 0px;
+    width: 99%;
+    font-weight: bold; /*negritas*/
+ 
+}
+
+header nav form{
+    float: right;
+    margin-right: 20px;
+    margin-top: -37px;
+  
+   
+}
+
+header nav ul li{
+    /*border: 1px solid red;*/
+    color: white;
+    display: inline-block;
+    margin-right: 20px;
+}
+#titulo1{
+    background: orange;
+    color: white;
+    border-radius: 5px;
+    margin: 0px auto;
+    
+    width: 340px;
+    font-weight: bold; /*negritas*/
+    margin-right: 50px;
+    margin-top: -220px;
+    text-align: center;
+    
+}
+#titulo2{
+    background: orange;
+    color: white;
+    border-radius: 5px;
+    margin: 0px auto;
+    
+    width: 340px;
+    font-weight: bold; /*negritas*/
+    margin-right: 50px;
+    margin-top: -280px;
+    text-align: center;
+}
+
+#titulo3{
+    background: orange;
+    color: white;
+    border-radius: 5px;
+    margin: 0px auto;
+    
+    width: 340px;
+    font-weight: bold; /*negritas*/
+    margin-right: 50px;
+    margin-top: 70px;
+    text-align: center;
+}
+#lista{
+    font-weight: bold;
+    color: black;
+    margin-left: 600px;
+    margin-top:  10px;
+}
+#publi{
+    margin-left: 650px;
+    margin-bottom: 50px;
+    width: 30%;
+   
+}
+
+
+#seccion03 article{
+   
+    margin-left: 50px;
+
+   
+    width: 
+    32.8%;
+}
+#form{
+    float: right;
+    margin-right: 100px;
+    margin-top: 10px;
+    
+}
+#boton{
+    border-radius: 50px;
+}
+#imgpost{
+    width: 120px;
+}
+#publicidad{
+    width: 40px;
+    
+}
+#slider{
+    width: 520px; 
+    margin-left: 48px;
+   }
+   #logohtml{
+    width: 200px; 
+    margin-bottom: 35px;
+   }   
+#red1{
+   
+  margin-left: 680px;
+  width: 24px;
+   }
+   
+#red2{
+   
+     width: 24px;
+     }
+   
+ #red3{
+   
+    width: 24px;
+         }
+ .otraSeccion{
+            font-size: 1.5em;
+        }
+ .nito{
+            color: gray;
+            font-weight: bold; /*negritas*/
+        }
+        
